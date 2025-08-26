@@ -1,0 +1,8 @@
+whois
+shodan
+dnspython
+pandas
+rich
+argparse
+requests
+

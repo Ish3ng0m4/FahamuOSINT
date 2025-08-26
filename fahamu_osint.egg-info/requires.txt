@@ -1,0 +1,6 @@
+whois
+shodan
+dnspython
+pandas
+rich
+requests
