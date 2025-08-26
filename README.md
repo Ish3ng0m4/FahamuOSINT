@@ -40,3 +40,16 @@ Command: `python3 -m scripts.fahamu -d example.com -o csv`
 | -------------- | ------------------------------- | -------- |
 | `-d, --domain` | Target domain                   | Required |
 | `-o, --output` | Output format (`csv` or `json`) | `csv`    |
+
+
+## Example Run
+### Command
+`python3 -m scripts.fahamu -d example.com -o csv`
+
+### Output
+`example.com_results_1.csv` → WHOIS
+`example.com_results_2.csv` → IP info
+`example.com_results_3.csv` → Shodan
+`example.com_results_4.csv` → Subdomains
+`example.com_results_5.csv` → Social Media Profiles
+
