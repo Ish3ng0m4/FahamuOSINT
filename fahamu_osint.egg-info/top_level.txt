@@ -1,2 +1,0 @@
-fahamu_osint
-scripts
