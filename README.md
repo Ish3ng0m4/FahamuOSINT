@@ -20,8 +20,8 @@ Shodan API Key (for Shodan scans)
 
 
 ## Installation
-1. Clone the repository
-   `git clone https://github.com/Ish3ng0m4/FahamuOSINT.git
+1. Clone the repository <br>
+   `git clone https://github.com/Ish3ng0m4/FahamuOSINT.git <br>
     cd FahamuOSINT`
 
 3. Set up Python virtual environment (optional but highly recommended)
