@@ -5,11 +5,11 @@ FahamuOSINT is a Python-based OSINT tool that helps red teamers, pentesters and 
 
 
 ## Features
-<b>WHOIS Lookup:</b> Get domain registration info.
-<b>IP and Shodan Scan:</b> Resolve domain to IP, check exposed services.
-<b>Subdomain Enumeration:</b> Using crt.sh, local/online wordlists, or custom wordlists.
-<b>Social Media Scraper:</b> Checks top 50 social media platforms for usernames or default common ones.
-<b>Export Results:</b> CSV or JSON output for easy analysis.
+<b>WHOIS Lookup:</b> Get domain registration info.<br>
+<b>IP and Shodan Scan:</b> Resolve domain to IP, check exposed services.<br>
+<b>Subdomain Enumeration:</b> Using crt.sh, local/online wordlists, or custom wordlists.<br>
+<b>Social Media Scraper:</b> Checks top 50 social media platforms for usernames or default common ones.<br>
+<b>Export Results:</b> CSV or JSON output for easy analysis.<br>
 <b>Rich Console Output:</b> Colorful, readable results.
 
 
