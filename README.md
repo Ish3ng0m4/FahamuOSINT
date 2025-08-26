@@ -25,8 +25,8 @@ Shodan API Key (for Shodan scans)
     `cd FahamuOSINT`
 
 3. Set up Python virtual environment (optional but highly recommended) <br>
-   `python3 -m venv venv` <br>
-   `source venv/bin/activate`
+   `python3 -m venv Fahamuvenv` <br>
+   `source Fahamuvenv/bin/activate`
 
 3. Install dependencies <br>
    `pip install -r requirements.txt`
