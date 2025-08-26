@@ -18,6 +18,6 @@ FahamuOSINT is a Python-based OSINT tool that helps red teamers, pentesters and 
 
 
 ## Requirements
-Python 3.10+
-Pip packages: requests, python-whois, shodan, rich, pandas
+Python 3.10+ <br>
+Pip packages: requests, python-whois, shodan, rich, pandas <br>
 Shodan API Key (for Shodan scans)
