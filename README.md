@@ -1,5 +1,5 @@
 # FahamuOSINT
-<img src"" width="1000px">
+![FahamuOSINT Logo](https://github.com/Ish3ng0m4/FahamuOSINT/blob/4e024ed8b477b9b60c4ddf2588049c1affecba55/FahamuOSINT%20Logo.png)
 Is an Automated OSINT Reconnaissance Tool
 FahamuOSINT is a Python-based OSINT tool that helps red teamers, pentesters and security researchers gather information about domains efficiently. It performs WHOIS lookups, IP & Shodan scans, subdomain enumeration and social media scraping. Results can be exported in CSV or JSON format.
 
