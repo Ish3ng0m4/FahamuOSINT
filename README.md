@@ -54,3 +54,21 @@ Command: `python3 -m scripts.fahamu -d example.com -o csv`
 `example.com_results_4.csv` → Subdomains <br>
 `example.com_results_5.csv` → Social Media Profiles
 
+
+## Subdomain Wordlists
+1. Uses local 1,613,291-entry wordlist: `common-crawl-subdomains-10000.txt`
+2. Optionally, users can provide custom wordlists.
+3. Online sources fallback: crt.sh
+
+
+## Social Media Scraper
+1. Checks top 50 platforms including Twitter (X), Facebook, LinkedIn, GitHub, Instagram, etc.
+2. Users can provide a username, otherwise uses common usernames.
+
+
+## License
+under MIT & ICTC License free for personal and professional use.
+
+
+# Contact
+Gabriel D Ishengoma | <a href="https://github.com/Ish3ng0m4>GitHub</a>
