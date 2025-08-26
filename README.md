@@ -24,8 +24,19 @@ Shodan API Key (for Shodan scans)
    `git clone https://github.com/Ish3ng0m4/FahamuOSINT.git` <br>
     `cd FahamuOSINT`
 
-3. Set up Python virtual environment (optional but highly recommended)
+3. Set up Python virtual environment (optional but highly recommended) <br>
    `python3 -m venv venv` <br>
    `source venv/bin/activate`
 
-3. Install dependencies
+3. Install dependencies <br>
+   `pip install -r requirements.txt`
+
+
+## Usage <br>
+Command: `python3 -m scripts.fahamu -d example.com -o csv`
+
+### Arguments
+| Flag           | Description                     | Default  |
+| -------------- | ------------------------------- | -------- |
+| `-d, --domain` | Target domain                   | Required |
+| `-o, --output` | Output format (`csv` or `json`) | `csv`    |
