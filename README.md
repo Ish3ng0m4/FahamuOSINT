@@ -42,14 +42,15 @@ Command: `python3 -m scripts.fahamu -d example.com -o csv`
 | `-o, --output` | Output format (`csv` or `json`) | `csv`    |
 
 
-## Example Run
-### Command
+
+### Example Run
+#### Command
 `python3 -m scripts.fahamu -d example.com -o csv`
 
-### Output
-`example.com_results_1.csv` → WHOIS
-`example.com_results_2.csv` → IP info
-`example.com_results_3.csv` → Shodan
-`example.com_results_4.csv` → Subdomains
+#### Output
+`example.com_results_1.csv` → WHOIS <br>
+`example.com_results_2.csv` → IP info <br>
+`example.com_results_3.csv` → Shodan <br>
+`example.com_results_4.csv` → Subdomains <br>
 `example.com_results_5.csv` → Social Media Profiles
 
