@@ -17,3 +17,15 @@ FahamuOSINT is a Python-based OSINT tool that helps red teamers, pentesters and 
 Python 3.10+ <br>
 Pip packages: requests, python-whois, shodan, rich, pandas <br>
 Shodan API Key (for Shodan scans)
+
+
+## Installation
+1. Clone the repository
+   `git clone https://github.com/Ish3ng0m4/FahamuOSINT.git
+    cd FahamuOSINT`
+
+3. Set up Python virtual environment (optional but highly recommended)
+   `python3 -m venv venv
+    source venv/bin/activate`
+
+3. Install dependencies
