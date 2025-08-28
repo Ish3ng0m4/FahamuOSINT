@@ -56,7 +56,7 @@ Command: `python3 -m scripts.fahamu -d example.com -o csv`
 
 
 ## Subdomain Wordlists
-1. Uses local 1,613,291-entry wordlist: `common-crawl-subdomains-10000.txt`
+1. Uses local 1,613,291-entry wordlist found on `common-crawl-subdomains-10000.txt` which is a default wordlist
 2. Optionally, users can provide custom wordlists.
 3. Online sources fallback: crt.sh
 
