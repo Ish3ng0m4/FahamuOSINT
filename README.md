@@ -10,7 +10,7 @@ FahamuOSINT is a Python-based OSINT tool that helps red teamers, pentesters and 
 <b>Subdomain Enumeration:</b> Using crt.sh, local/online wordlists, or custom wordlists.<br>
 <b>Social Media Scraper:</b> Checks top 50 social media platforms for usernames or default common ones.<br>
 <b>Export Results:</b> CSV or JSON output for easy analysis.<br>
-<b>Rich Console Output:</b> Colorful, readable results.
+<b>Rich Console Output:</b> Colorful and readable results.
 
 
 ## Requirements
