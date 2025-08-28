@@ -67,7 +67,7 @@ Command: `python3 -m scripts.fahamu -d example.com -o csv`
 
 
 ## License
-under MIT & ICTC License free for personal and professional use.
+Under MIT & ICTC License free for personal and professional use.
 
 
 # Contact
